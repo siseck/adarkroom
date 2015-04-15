@@ -1,10 +1,10 @@
 body {
-	background-color: #272823;
+	background-color: red;
 	color: #EEE;
 }
 
 div.headerButton {
-	border-left: 1px solid #EEE;
+	border-left: 1px solid black;
 }
 
 div#notifyGradient {
@@ -15,57 +15,57 @@ div#notifyGradient {
 }
 
 div#saveNotify {
-	background: #272823;
+	background: green;
 }
 
 .eventPanel:before {
-	background-color: #272823;
+	background-color: blue;
 }
 
 .eventTitle:after {
-	background-color: #272823;
+	background-color: gray;
 }
 
 div.tooltip {
-	background-color: #111;
+	background-color: yellow;
 	border: 1px solid black;
 	box-shadow: -1px 3px 2px #111;
 }
 
 div#population {
-	background-color: #272823;
+	background-color: purple;
 }
 
 div#village:before {
-	background: #272823;
+	background: orange;
 }
 
 div#village {
-	border: 1px solid #EEE;
+	border: 1px solid black;
 }
 
 div#stores:before {
-	background: #272823;
+	background: white;
 }
 
 div#stores {
-	border: 1px solid #EEE;
+	border: 1px solid blue;
 }
 
 div#weapons:before {
-	background: #272823;
+	background: green;
 }
 
 div#weapons {
-	border: 1px solid #EEE;
+	border: 1px solid orange;
 }
 
 div#bagspace {
-	background-color: #272823;
+	background-color: red;
 }
 
 div#outfitting:before {
-	background: #272823;
+	background: purple;
 }
 
 div#perks {
